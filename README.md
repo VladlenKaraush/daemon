@@ -1,0 +1,2 @@
+# daemon
+Random generator daemon
